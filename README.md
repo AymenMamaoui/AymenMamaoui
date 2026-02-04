@@ -19,9 +19,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymenMamaoui&show_icons=true&theme=tokyonight&count_private=true" alt="Aymen's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AymenMamaoui&show_icons=true&theme=dark&count_private=true" alt="Aymen's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMamaoui&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMamaoui&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
