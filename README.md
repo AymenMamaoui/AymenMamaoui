@@ -28,8 +28,7 @@
 
 ### 📂 Featured Projects
 * **[Household Budget Management System](https://github.com/AymenMamaoui/household-budget-management-system)**: An intelligent web app for family finance featuring an **Agentic AI** for smart recommendations.
-* **EmiShop**: A full-featured e-commerce platform built with **Spring Boot** and **Angular**, containerized with **Docker**.
-* **Nexus Analytics Hub**: A modern dashboard focused on data visualization and sleek UI using **Tailwind CSS**.
+
 
 ---
 
