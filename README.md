@@ -27,6 +27,11 @@
   <i>Building the bridge between intelligent agents and enterprise-grade software.</i>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymenMamaoui&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymenMamaoui&theme=tokyonight&utcOffset=1" width="45%" />
+</p>
+
 ---
 
 ### 📂 Featured Projects
