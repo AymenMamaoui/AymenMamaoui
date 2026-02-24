@@ -16,16 +16,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Activity & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-Black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-noza.vercel.app/api?username=AymenMamaoui&show_icons=true&theme=tokyonight&count_private=true" alt="Aymen's Stats" height="150px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenMamaoui&theme=tokyonight" alt="GitHub Streak" height="150px" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymenMamaoui&theme=tokyonight" height="150px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-two-noza.vercel.app/api/top-langs/?username=AymenMamaoui&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" />
-</div>
+<p align="center">
+  <i>Building the bridge between intelligent agents and enterprise-grade software.</i>
+</p>
 
 ---
 
