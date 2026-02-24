@@ -19,12 +19,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymenMamaoui&show_icons=true&theme=tokyonight&count_private=true" alt="Aymen's Stats" height="150px" />
+  <img src="https://github-readme-stats-two-noza.vercel.app/api?username=AymenMamaoui&show_icons=true&theme=tokyonight&count_private=true" alt="Aymen's Stats" height="150px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenMamaoui&theme=tokyonight" alt="GitHub Streak" height="150px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenMamaoui&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats-two-noza.vercel.app/api/top-langs/?username=AymenMamaoui&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" />
 </div>
 
 ---
