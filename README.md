@@ -9,26 +9,13 @@
 | Category | Technologies |
 | :--- | :--- |
 | **AI & Intelligence** | ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-LLMs-blueviolet?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black) |
-| **Cybersecurity & Infra** | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-Linux-lightgrey?style=for-the-badge&logo=kalilinux) ![Network Security](https://img.shields.io/badge/Security-Network-red?style=for-the-badge) |
 | **Engineering (Backend)** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) |
 | **Modern Frontend** | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **DevOps & Automation** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-orange?style=for-the-badge) |
 
 ---
 
-### 📊 My Activity & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-Black?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 📊 My Activity 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenMamaoui&theme=tokyonight" alt="GitHub Streak" height="150px" />
