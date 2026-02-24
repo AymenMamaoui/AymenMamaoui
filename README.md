@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aymen Mamaoui!
 
 ### 🚀 Computer Science Engineering Student (2nd Year)
-* Computer Science Engineering Student at Mohammadia School of Engineers with a focus on the intersection of Artificial Intelligence and Cybersecurity. Passionate about building secure, intelligent systems and exploring the synergy between Agentic AI and robust infrastructure.
+* Computer Science Engineering Student at Mohammadia School of Engineers. I'm interested in the synergy between Agentic AI and Full Stack Development, building secure, intelligent systems. Passionate about orchestrating LLMs within robust enterprise architectures and bridging the gap between autonomous agents and modern infrastructure.
 ---
 
 ### 🛠️ Technical Stack & Core Focus
