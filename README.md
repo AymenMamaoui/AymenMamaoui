@@ -36,8 +36,15 @@
 
 ---
 
-### 📂 Featured Projects
-* **[Household Budget Management System](https://github.com/AymenMamaoui/household-budget-management-system)**: An intelligent web app for family finance featuring an **Agentic AI** for smart recommendations.
+### 📂 Projects
+* **[Cost Of living Dashboard](https://github.com/AymenMamaoui/cost-of-living-dashboard)**: An interactive data analysis dashboard that explores the cost of living across cities and countries worldwide — covering housing, food, transportation, and more. Built with Python, Streamlit, and Plotly, with KMeans clustering to group cities by cost profile.
+
+* **[Mask Detector](https://github.com/AymenMamaoui/mask-detector)**: ML model that takes an image or a live camera feed, detects faces in it, and for each face answers one binary question:
+Is this person wearing a mask? → Yes or No
+
+* **[Database Anomaly Detector](https://github.com/AymenMamaoui/db-anomaly-detector)**: An ML-powered system that connects to a relational database, profiles its schema and data, and automatically detects anomalies using Isolation Forest and an Autoencoder — designed with Oracle DB compatibility in mind.
+
+
 
 
 ---
