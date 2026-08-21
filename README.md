@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Aymen Mamaoui!
 
-### 🚀 Computer Science Engineering Student (2nd Year)
-* Computer Science Engineering Student at Mohammadia School of Engineers. I'm focused on the synergy between Data Science, Agentic AI, and Full Stack Development. I build intelligent systems by transforming complex data into actionable insights through autonomous LLM orchestration, integrated within robust and secure enterprise architectures.
+### Computer Science Engineering Student (2nd Year)
+* AI & Data Science Engineering Student at Mohammadia School of Engineers (EMI), specializing in Machine Learning, Generative AI, Agentic Systems, and Data Engineering to build reliable, scalable, and impactful software solutions.
 ---
 
-### 🛠️ Technical Stack & Core Focus
+### Technical Stack & Core Focus
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,7 +16,7 @@
 
 ---
 
-### 📊 My Activity 
+### My Activity 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenMamaoui&theme=tokyonight" alt="GitHub Streak" height="150px" />
@@ -28,7 +28,7 @@
   <i>Building the bridge between intelligent agents and enterprise-grade software.</i>
 </p>
 
-### 📅 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymenMamaoui&theme=tokyonight&area=true&hide_border=true" width="100%&v=1" />
@@ -37,10 +37,10 @@
 ---
 
 ### 📂 Projects
-* **[Database Anomaly Detector](https://github.com/AymenMamaoui/db-anomaly-detector)**: An ML-powered system that connects to a relational database, profiles its schema and data, and automatically detects anomalies using Isolation Forest and an Autoencoder — designed with Oracle DB compatibility in mind.
-
-* **[Mask Detector](https://github.com/AymenMamaoui/mask-detector)**: ML model that takes an image or a live camera feed, detects faces in it, and for each face answers one binary question:
-Is this person wearing a mask? → Yes or No
+* **[Fraud Detection — End-to-End ML System](https://github.com/AymenMamaoui/Fraud-Detection-End-to-End-ML-System)**: An end-to-end machine learning system that scores card transactions for fraud risk in real time, explains each decision, and is deployed as a live public demo.
+  
+* **[Geo-Risk Maroc](https://github.com/AymenMamaoui/geo-risk-engine)**: Un moteur d'IA agentique qui ingère des bulletins bruts, croise les risques météo et hydrauliques, et déclenche des alertes ciblées — des autorités aux citoyens.
+  
   
 * **[Cost Of living Dashboard](https://github.com/AymenMamaoui/cost-of-living-dashboard)**: An interactive data analysis dashboard that explores the cost of living across cities and countries worldwide — covering housing, food, transportation, and more. Built with Python, Streamlit, and Plotly, with KMeans clustering to group cities by cost profile.
 
